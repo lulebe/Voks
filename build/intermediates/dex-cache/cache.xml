@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/LuLeBe/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/Users/LuLeBe/Documents/androidStudio/Voks/app/build/intermediates/pre-dexed/debug/systembartint-1.0.3-7022726d0ca161f98665107b9d86fd2a82054ec2.jar" />
+    </item>
+    <item
+        jar="/Users/LuLeBe/Documents/androidStudio/Voks/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/LuLeBe/Documents/androidStudio/Voks/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-3574448d8fe54a0692a6744cef997f6d07dd1ea0.jar" />
+    </item>
+    <item
+        jar="/Users/LuLeBe/Documents/androidStudio/Voks/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/LuLeBe/Documents/androidStudio/Voks/app/build/intermediates/pre-dexed/debug/classes-9d292482bb18044e38ba5ec41f7ea1d190c6e4e5.jar" />
+    </item>
+    <item
+        jar="/Users/LuLeBe/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/LuLeBe/Documents/androidStudio/Voks/app/build/intermediates/pre-dexed/debug/json-simple-1.1-70e9686c19c2108cffe88373127433313651bbb1.jar" />
+    </item>
+    <item
+        jar="/Users/LuLeBe/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/LuLeBe/Documents/androidStudio/Voks/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-90250ce8ed79fa64c1eb567f728bda78a43a42ba.jar" />
+    </item>
+    <item
+        jar="/Users/LuLeBe/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.0.1/beb7e0a75c753383e7ef68c0e1639999db301c33/androidannotations-api-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="beb7e0a75c753383e7ef68c0e1639999db301c33">
+        <dex dex="/Users/LuLeBe/Documents/androidStudio/Voks/app/build/intermediates/pre-dexed/debug/androidannotations-api-3.0.1-469b063f1d84f52a3c2853dc584992b01bbfdb87.jar" />
+    </item>
+    <item
+        jar="/Users/LuLeBe/Documents/androidStudio/Voks/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/LuLeBe/Documents/androidStudio/Voks/app/build/intermediates/pre-dexed/debug/classes-c8a6f0fb27e4e7cb61e7ae1eafc778bda944ef7c.jar" />
+    </item>
+    <item
+        jar="/Users/LuLeBe/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/LuLeBe/Documents/androidStudio/Voks/app/build/intermediates/pre-dexed/debug/commons-io-2.4-9c18b9a26bf6f174c113972552ecfa212c7fdf0b.jar" />
+    </item>
+
+</items>
